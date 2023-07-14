@@ -3,12 +3,13 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
+  "repository": "https://github.com/garytalmes/pkg-test.git",
   "scripts": {
     "test": "exit 0"
   },
   "author": "",
   "license": "ISC",
   "publishConfig": {
-    "@garytalmes:registry": "https://npm.pkg.github.com"
+    "registry": "https://npm.pkg.github.com"
   }
 }
